@@ -1,0 +1,6 @@
+{
+  "name": "PLBT - Charting & Market Analysis",
+  "description": "Offline charting, market analysis, trading simulator, backtesting, and trade journal app with automated API deal synchronization from MetaTrader 5 and cTrader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
